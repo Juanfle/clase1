@@ -12,3 +12,5 @@ while (intento != numeroSecreto) {
         alert("Intenta nuevamente")
     }
 }
+
+// cambios mas cambios
